@@ -18,7 +18,7 @@ const allowedOrigins = [
   'http://localhost:3000',
 
   //деплой-продакшен
-  'https://goit-react-hw-08-sigma-smoky.vercel.app',
+  'https://contacts-app-frontend-mu.vercel.app',
   'https://contacts-app-mm7s.onrender.com',
 ];
 
